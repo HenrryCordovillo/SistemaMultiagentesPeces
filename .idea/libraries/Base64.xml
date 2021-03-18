@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Base64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ProgramasIA/AgentesInteligentesJADE-master/lib/Agentes/Base64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
